@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+body {
+  background: lightgreen;
+  margin-bottom: 5rem;
+}
+.content {
+  background: lightblue;
+}
+footer {
+  background: pink;
+}
+html {
+  min-height: 100%;
+  position: relative;
+}
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 5rem;
+}
